@@ -1,0 +1,12 @@
+body {
+  font-size: 30px;
+}
+
+th {
+font-weight: 400;
+  background-color: red;
+}
+
+td {
+  background-color: yellow;
+}
